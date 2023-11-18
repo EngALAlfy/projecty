@@ -1,0 +1,7 @@
+crayons
+openpyxl
+inflect
+cpanel_api
+pathlib
+github
+tinydb
